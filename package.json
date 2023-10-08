@@ -3,6 +3,11 @@
   "private": true,
   "dependencies": {},
   "devDependencies": {
-    "@ctx-core/monorepo": "^20.4.116"
-  }
+    "@ctx-core/monorepo": "^20.4.116",
+    "@proseui/-dev-bin": "0.0.0"
+  },
+  "workspaces": [
+    "app/*",
+    "lib/*"
+  ]
 }

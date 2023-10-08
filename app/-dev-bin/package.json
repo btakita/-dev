@@ -1,0 +1,13 @@
+{
+	"name": "@proseui/-dev-bin",
+	"private": true,
+	"version": "0.0.0",
+	"bin": {
+		"tmux-dev": "bin/tmux-dev.sh",
+		"tmux-rename-window": "bin/tmux-rename-window.sh"
+	},
+	"dependencies": {
+	},
+	"devDependencies": {
+	}
+}

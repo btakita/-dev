@@ -1,0 +1,6 @@
+[submodule "app/proseui.net"]
+	path = app/proseui.net
+	url = git@github.com:proseui/proseui.net.git
+[submodule "app/.github"]
+	path = app/.github
+	url = git@github.com:proseui/.github.git
