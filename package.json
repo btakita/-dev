@@ -1,0 +1,8 @@
+{
+  "name": "@proseui/-dev",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "@ctx-core/monorepo": "^20.4.116"
+  }
+}
